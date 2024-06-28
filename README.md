@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a passionate and dedicated BI Developer with 2 years of experience in the field.
+- 💻 Currently working on various projects to gain new skills in Data Engineering.
+- 🔎 Eager to expand my skills in data architecture, pipeline development, and big data technologies.
+
+When I'm not diving into data, I enjoy:
+
+- 📚 Reading of both fiction and non-fiction.
+- 🏞 Exploring the great outdoors and staying active.
+- 🧘 Practicing mindfulness and maintaining a balanced lifestyle.
+
 <!--
 **odashka/odashka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
